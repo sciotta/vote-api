@@ -1,0 +1,20 @@
+{
+  "service": {
+    "My api": "http://localhost:9900/api/"
+  },
+ "endpoints": {
+    "postRoute": {
+      "route": "votes/voice2015/1",
+      "method": "get",
+      "expectedStatusCode": 200
+    }
+    },
+    "options": {
+      "output": "benchmark",
+      "minSamples": 1000,
+      "runMode": "parallel",
+      "maxTime": 1 ,
+      "debug": true,
+      "stopOnError": false
+    }
+}
