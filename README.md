@@ -5,7 +5,7 @@ An in-memory and performatic vote API with Node/Express and LokiJS
 
 #### 1. Setting Up environment
 
-Clone this repository and install [nodeJS](http://nodejs.io/downloads)...
+Clone this repository and install [nodeJS](http://nodejs.org/downloads/)...
 
 > **Attention!** If you are running on Ubuntu SO, plese, read [this article](http://www.hostingadvice.com/how-to/install-nodejs-ubuntu-14-04/) for clear any doubts!
 
