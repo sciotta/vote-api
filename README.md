@@ -41,7 +41,7 @@ npm start
 Only api request tests (with Mocha, should and Supertest)
 
 ```
-grunt test
+grunt
 ```
 
 Benchmark (performance) test
