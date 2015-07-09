@@ -25,7 +25,7 @@
 	"requests": [
 		{
 			"headers": "",
-			"url": "http://localhost:8080/api/votes/voice2015/1",
+			"url": "http://localhost:8080/api/votes/voice2015/123",
 			"pathVariables": {},
 			"preRequestScript": "var prScript",
 			"method": "GET",
@@ -127,7 +127,7 @@
 		{
 			"id": "ea99d78b-e044-3084-2e6b-4153d06ffbaa",
 			"headers": "user-token: adf0932428372\n",
-			"url": "http://localhost:8080/api/votes/thiago/123",
+			"url": "http://localhost:8080/api/votes/voice2015/123",
 			"preRequestScript": "var prScript",
 			"pathVariables": {},
 			"method": "POST",
