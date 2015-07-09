@@ -1,4 +1,5 @@
-# vote-api 
+# vote-api [![Build Status](https://travis-ci.org/thiagog3/vote-api.svg?branch=master)](https://travis-ci.org/thiagog3/vote-api) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 An in-memory and performatic vote API with Node/Express and LokiJS 
 
 ## Getting Started
@@ -34,7 +35,7 @@ npm start
 ```
 
 > The server will start at http://localhost:8080. Take a look if this port not it use by other proccess.
-> You can test api on [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) using the vote-api.json.postman_collection present on root of this repository.
+> You can test api on [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) using the ***vote-api.json.postman_collection*** present on root of this repository.
 
 #### Test application
 
