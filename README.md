@@ -7,7 +7,7 @@ An in-memory and performatic vote API with Node/Express and LokiJS
 
 Clone this repository and install [nodeJS](http://nodejs.org/downloads/)...
 
-> **Attention!** If you are running on Ubuntu SO, plese, read [this article](http://www.hostingadvice.com/how-to/install-nodejs-ubuntu-14-04/) for clear any doubts!
+> **Attention!** If you are running on Ubuntu SO, please, read [this article](http://www.hostingadvice.com/how-to/install-nodejs-ubuntu-14-04/) for clear any doubts!
 
 ...and them grunt-cli package (NPM) globally:
 
@@ -41,7 +41,7 @@ npm start
 Only api request tests (with Mocha, should and Supertest)
 
 ```
-grunt test
+grunt
 ```
 
 Benchmark (performance) test
@@ -49,4 +49,4 @@ Benchmark (performance) test
 ```
 grunt benchmark
 ```
-> The test result will be generated at ***output_folder*** in HTML format containing a graph and information about the benchmark test. Extra configurations can be easily do inside ***config.js*** 
+> The test result will be generated at ***output_folder*** in HTML format containing a graph and information about the benchmark test. Extra configurations can to be easily do inside ***config.js*** 
